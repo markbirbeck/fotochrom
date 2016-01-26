@@ -11,5 +11,10 @@
   "license": "MIT",
   "repository": "markbirbeck/fotochrom",
   "bugs": "https://github.com/markbirbeck/fotochrom/issues",
-  "homepage": "https://github.com/markbirbeck/fotochrom"
+  "homepage": "https://github.com/markbirbeck/fotochrom",
+  "dependencies": {
+    "d3": "^3.5.13",
+    "ngeohash": "^0.6.0",
+    "topojson": "^1.6.20"
+  }
 }
