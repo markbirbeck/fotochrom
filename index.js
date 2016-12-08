@@ -3,6 +3,6 @@ module.exports = {
   geo: require('./lib/geo'),
   cohort: require('./lib/cohort'),
   pie: require('./lib/pie'),
-  timeSeries: require('./lib/time-series'),
+  chartTimeSeries: require('./lib/chart-time-series'),
   plotTimeSeries: require('./lib/plot-time-series')
 };
