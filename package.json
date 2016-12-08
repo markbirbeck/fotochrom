@@ -16,5 +16,9 @@
     "d3": "^3.5.13",
     "ngeohash": "^0.6.0",
     "topojson": "^1.6.20"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.3"
   }
 }
