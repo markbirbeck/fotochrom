@@ -1,0 +1,1 @@
+window.fotochrom = require('.');
