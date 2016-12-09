@@ -4,6 +4,6 @@ module.exports = {
   cohort: require('./lib/cohort'),
   pie: require('./lib/pie'),
   chartTimeSeries: require('./lib/chart-time-series'),
-  scatter: require('./lib/scatter'),
+  chartScatter: require('./lib/chart-scatter'),
   plotTimeSeries: require('./lib/plot-time-series')
 };
