@@ -5,5 +5,6 @@ module.exports = {
   pie: require('./lib/pie'),
   chartTimeSeries: require('./lib/chart-time-series'),
   chartScatter: require('./lib/chart-scatter'),
-  plotTimeSeries: require('./lib/plot-time-series')
+  plotTimeSeries: require('./lib/plot-time-series'),
+  plotScatter: require('./lib/plot-scatter')
 };
