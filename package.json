@@ -1,6 +1,6 @@
 {
   "name": "fotochrom",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Fotochrom charting library.",
   "main": "index.js",
   "scripts": {
