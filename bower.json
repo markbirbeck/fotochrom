@@ -1,0 +1,11 @@
+{
+  "name": "fotochrom",
+  "main": "./dist/fotochrom.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
