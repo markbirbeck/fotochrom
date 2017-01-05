@@ -15,7 +15,6 @@
   "bugs": "https://github.com/markbirbeck/fotochrom/issues",
   "homepage": "https://github.com/markbirbeck/fotochrom",
   "dependencies": {
-    "bower": "^1.8.0",
     "d3": "^3.5.13",
     "dev": "^0.1.3",
     "ngeohash": "^0.6.0",
